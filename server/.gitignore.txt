@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+projectenv/
+
+# Data
+*.db
+*.npy
+
+# Private image folders and tests
+known_faces/
+ir_captures/
+uploads/
+tests/

@@ -1,0 +1,39 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+generated_plugin_registrant.dart
+
+# Android related
+android/.gradle/
+android/app/build/
+android/.idea/
+*.iml
+
+# iOS related
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/build/
+
+# Web related
+web/.dart_tool/
+web/build/
+
+# IDE/Tool specific
+.vscode/
+.idea/
+*.swp
+*.lock
+*.log
+
+# Misc
+*.DS_Store
+*.apk
+*.ipa
+*.flutter-plugins
+*.flutter-plugins-dependencies
